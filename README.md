@@ -9,10 +9,10 @@
 <br>
 # Want this monitor integrated in your server?
 If you want this monitor integrated in your server, message me on Discord at **rtuna#4321**. All I need is your Discord Webhook and I will add it to my monitor, which is running 24/7 for __**FREE**__!
+<p align="center"><img width=50% src="https://i.imgur.com/qOOGkQo.png"></p>
 <br>
 <br>
-<br>
-<br>
+
 # To install & run it on your own:
 ## Update configuration files
 First of all, make sure you have [NodeJS](https://nodejs.org/) installed.
