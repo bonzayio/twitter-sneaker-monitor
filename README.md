@@ -15,7 +15,7 @@ Next up, run `npm install`. That will install all the depencies you need for thi
 Now, run `npm start`, that will start the monitor!
 
 # License
-Licensed under the MIT License - see the [LICENSE file](https://github.com/rtunazzz/Diorerrr/blob/master/LICENSE) for more details.
+Licensed under the MIT License - see the [LICENSE file](https://github.com/bonzayio/twitter-sneaker-monitor/blob/master/LICENSE) for more details.
 
 # Author
 Made by **[rtuna](https://twitter.com/rtunazzz)**.
