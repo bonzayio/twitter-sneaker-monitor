@@ -1,0 +1,27 @@
+{
+  "name": "sneaker-accounts-twitter-monitor",
+  "version": "1.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/bonzayio/twitter-sneaker-monitor",
+  "author": "rtunazzz",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.6.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.20.5",
+    "prettier": "^2.0.5"
+  }
+}
