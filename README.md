@@ -6,10 +6,6 @@
 <br>
 <br>
 <br>
-<br>
-# Want this monitor integrated in your server?
-If you want this monitor integrated in your server, message me on Discord at **rtuna#4321**. All I need is your Discord Webhook and I will add it to my monitor, which is running 24/7 for __**FREE**__!
-<img align="center" src="https://i.imgur.com/qOOGkQo.png" alt="alternate text" width=60% style="padding-bottom:1.0em;padding-right:2.0em;" /> <b>← Notification example.</b>
 
 <br>
 <br>
